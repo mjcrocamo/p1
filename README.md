@@ -9,9 +9,9 @@ from the office which will randomly generate on page load.
 
 
 ## Outside resources
-PHP documentation site
-http://php.net/manual/en/function.array-rand.php
+PHP documentation site:
++ http://php.net/manual/en/function.array-rand.php
 
-Use of the Bootstrap Library for additional CSS
-https://getbootstrap.com/docs/3.3/css/#sass
+Use of the Bootstrap Library for additional CSS:
++ https://getbootstrap.com/docs/3.3/css/#sass
 
