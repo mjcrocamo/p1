@@ -1,0 +1,43 @@
+/* responsive HTML */
+html {
+    height: 100%;
+    max-height: auto;
+    width: 100%;
+}
+
+/* responsive body, center page*/
+body {
+    height: 100%;
+    min-width: 100%;
+    position: relative;
+    text-align: center;
+}
+
+/* resize image */
+img {
+    width: 35%;
+    height: auto;
+    margin: 1em;
+}
+
+/* About Me and Quote Title color */
+.header {
+    color: #548caf;
+}
+
+/* Quote text color */
+.quotetext {
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+/* About me font-size */
+.aboutme {
+    font-size: 18px;
+}
+
+.paragraph {
+    width: 50%;
+    margin-left: 25%;
+}
